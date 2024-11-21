@@ -17,6 +17,13 @@ This tool automatically transcribes audio files and generates summaries using De
 - Deepgram API key
 - OpenAI API key
 
+## CREATE A FOLDER AND NAME IT:
+```
+Audio
+```
+
+This is where the audio files will be stored.
+
 ## Installation
 
 1. Clone the repository:
